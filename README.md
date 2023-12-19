@@ -14,7 +14,7 @@
 - Machine Learning
 - Directional Driller
 - RSS Engineer
-- Company Man (offshore, Onshore)
+- Company Man (Offshore, Onshore)
 
 ### 🌱 Education 
 - Petroleum Engineering (M.S.C)
