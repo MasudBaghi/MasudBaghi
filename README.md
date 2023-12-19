@@ -1,4 +1,4 @@
-# Masud Kurd Baghi 
+# Masud  Baghi Kurd
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/masudmesi/)](https://www.instagram.com/masudmesi)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:masudbaghi2012@gmail.com)
