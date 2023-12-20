@@ -1,7 +1,9 @@
 # Masud  Baghi Kurd
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/masudmesi/)](https://www.instagram.com/masudmesi)
+[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?logo=telegram&color=blue)](https://t.me/MasudkurdBaghi)
+[![WhatsApp](https://img.shields.io/badge/Whatsapp-black?logo=whatsapp&style=flat-square)](https://wa.me/+989128464538)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:masudbaghi2012@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/masudmesi/)](https://www.instagram.com/masudmesi)
 [![Github](https://img.shields.io/github/followers/MasudBaghi?label=Follow&style=social)](https://github.com/MasudBaghi)
 
 - 🌱 I'm an experienced Petroleum engineer in Offshore and land Rig 
